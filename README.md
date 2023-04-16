@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently a **B.Tech honours CSE 3rd Year**
+- 🔭 I’m currently a **B.Tech Honours CSE 3rd Year Student**
 
 - 🌱 I’m currently learning **Data Science with Python**
 
